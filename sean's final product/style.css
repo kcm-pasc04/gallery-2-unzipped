@@ -1,0 +1,23 @@
+
+
+
+
+
+
+img {
+  float: right;
+  padding: 10px;
+}
+
+
+
+<img src="artic fox.jpg" alt="artic fox">
+
+img {
+  float: left;
+  padding: 10px;
+}
+
+
+
+<img src="seal.jpg" alt="seal">
